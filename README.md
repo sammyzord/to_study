@@ -4,6 +4,9 @@
 - [Svelte](https://svelte.dev/)
 - [SolidJS](https://www.solidjs.com/)
 
+## Backend
+- [GraphQL](https://graphql.org/)
+
 
 ## DevOps
 - [AWS](https://aws.amazon.com/)
@@ -38,6 +41,7 @@
 - Rust
 - Clojure
 - Scala
+- Swift?
 - Kotlin?
 - Lua?
 

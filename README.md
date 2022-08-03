@@ -14,7 +14,9 @@
 - [Firebase](https://firebase.google.com/)
 - [Supabase](https://supabase.com/)
 - [Kubernetes](https://kubernetes.io/)
-
+- [Terraform](https://www.terraform.io/)
+- [Nomad](https://www.nomadproject.io/)
+- [Waypoint](https://www.waypointproject.io/)
 
 ## Deployment
 - [Render](https://render.com/)
@@ -30,6 +32,7 @@
 ## Mobile
 - [Nativescript](https://nativescript.org/)
 - [React Native](https://reactnative.dev/)
+- [Flutter](https://flutter.dev/)
 
 ## Game Dev
 - [Godot](https://godotengine.org/)
